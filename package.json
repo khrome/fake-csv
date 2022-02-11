@@ -1,0 +1,15 @@
+{
+  "name": "fake-csv",
+  "version": "0.0.1",
+  "main": "fake-csv.js",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  },
+  "dependencies": {
+    "dsv-delimiter-configurations": "0.0.1",
+    "faker": "4.1.0",
+    "kitchen-sync": "0.0.1",
+    "seed-random": "^2.2.0"
+  }
+}
